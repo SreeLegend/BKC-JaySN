@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BetterKillCustomization.iml" filepath="$PROJECT_DIR$/.idea/modules/BetterKillCustomization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BetterKillCustomization_main.iml" filepath="$PROJECT_DIR$/.idea/modules/BetterKillCustomization_main.iml" group="BetterKillCustomization" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/BetterKillCustomization_test.iml" filepath="$PROJECT_DIR$/.idea/modules/BetterKillCustomization_test.iml" group="BetterKillCustomization" />
+    </modules>
+  </component>
+</project>
