@@ -1,0 +1,19 @@
+name: BetterKillCustomization
+id: bkc
+main: com.jaysn.bkc.MainClass
+depend: [Vault]
+version: ${version}
+authors: [JaySN]
+description: BetterKillCustomizaion Plugin.
+
+commands:
+   setlobbyspawn:
+      description: Set game respawn area.
+      usage: /<command>
+      aliases: [sls]
+
+
+permissions:
+    bkc.admin:
+      description: Admin Commands
+      default: Op
